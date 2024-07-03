@@ -2,12 +2,30 @@
 
 This repository provides the datasets and prompts utilized in the paper titled "Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models."
 
-
+---
 `prompts.py` This script introduces the prompts used in the experiment.
 
 `math_english_instructions` - this function is english-instructed prompt for the 'NIS Math' dataset.
 
 `math_kazakh_instructions` - this function is kazakh-instructed prompt for the 'NIS Math' dataset.
+
+`spelling_english_instructions` - this function is english-instructed prompt for the 'kkWikiSpell' dataset.
+
+`spelling_kazakh_instructions` - this function is kazakh-instructed prompt for the 'kkWikiSpell' dataset.
+
+`belebele_english_instructions` - this function is english-instructed prompt for the 'Belebele' dataset.
+
+`belebele_kazakh_instructions` - this function is kazakh-instructed prompt for the 'Belebele' dataset.
+
+`copa_english_instructions` - this function is english-instructed prompt for the 'kkCOPA' dataset.
+
+`copa_kazakh_instructions` - this function is kazakh-instructed prompt for the 'kkCOPA' dataset.
+
+`flores_english_instructions` - this function is english-instructed prompt for the 'Flores-101' dataset.
+
+`flores_kazakh_instructions` - this function is kazakh-instructed prompt for the 'Flores-101' dataset.
+
+
 
 
 ## Datasets for "Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models"
