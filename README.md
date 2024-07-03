@@ -2,7 +2,7 @@
 
 This repository provides the datasets and prompts utilized in the paper titled "Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models."
 
-`[prompts.py](./prompts.py)` this script introduces the prompts used in the experiment
+`prompts.py` this script introduces the prompts used in the experiment
 
 ## Datasets for "Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models"
 
