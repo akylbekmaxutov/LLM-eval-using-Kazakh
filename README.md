@@ -4,8 +4,10 @@ This repository provides the datasets and prompts utilized in the paper titled "
 
 
 `prompts.py` This script introduces the prompts used in the experiment.
+
 `math_english_instructions` - this function is english-instructed prompt for the 'NIS Math' dataset.
-`math_kazakh_instructions` - this function is kazakh-instructed prompt for the 'NIS Math' dataset
+
+`math_kazakh_instructions` - this function is kazakh-instructed prompt for the 'NIS Math' dataset.
 
 
 ## Datasets for "Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models"
